@@ -1,0 +1,18 @@
+{
+    "terminal.integrated.shellArgs.osx": [],
+    "window.zoomLevel": 1,
+    "workbench.startupEditor": "newUntitledFile",
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "eslint.autoFixOnSave": fa,
+    "files.autoSave": "afterDelay",
+    "files.autoSave": "onWindowChange",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Abyss",
+    "explorer.confirmDelete": false, // Filepath to the configuration file for Rubocop
+}
