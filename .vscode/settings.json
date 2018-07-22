@@ -1,15 +1,16 @@
 {
+    "editor.formatOnSave": false,
     "terminal.integrated.shellArgs.osx": [],
     "window.zoomLevel": 1,
     "workbench.startupEditor": "newUntitledFile",
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": false,
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": false,
     "[javascript]": {
         "editor.formatOnSave": false
     },
-    "eslint.autoFixOnSave": fa,
+    "eslint.autoFixOnSave": false,
     "files.autoSave": "afterDelay",
     "files.autoSave": "onWindowChange",
     "explorer.confirmDragAndDrop": false,
