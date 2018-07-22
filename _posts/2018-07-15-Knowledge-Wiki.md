@@ -6,4 +6,5 @@ summary:    Modern Notetaking with a Knowledge Wiki
 categories: learning
 ---
 
-asdlkfjasldfioij
+Post Coming Soon! 
+While you're waiting, check out my [knowledge wiki](https://github.com/kimschles/schlesinger-knowledge/wiki).
