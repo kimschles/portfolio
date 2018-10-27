@@ -2,7 +2,7 @@
 layout:     post
 title:      How to Read More
 date:       2017-07-03
-summary:    A description of how I plan to read more frequently  
+summary:    A Description of How I plan to Read More Frequently  
 categories: learning
 ---
 
