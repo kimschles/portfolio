@@ -2,7 +2,7 @@
 layout:     post
 title:      Turn a Talk into an Active Learning Experience
 date:       2016-08-06 12:32:18
-summary:    How to Turn a Conference Talk into an Active Learning Experience
+summary:    How I a Turned Conference Talk About Node.js Into an Active Learning Experience
 categories: learning
 ---
 
