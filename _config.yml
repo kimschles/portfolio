@@ -4,7 +4,7 @@ email:       schlesinger.kim@gmail.com
 author:      Kim Schlesinger
 description: "Blog and Portfolio Site for Kim Schlesinger"
 baseurl:     
-url:         "https://kimschlesinger.com"
+url:         "/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
