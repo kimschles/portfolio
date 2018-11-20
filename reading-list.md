@@ -1,8 +1,8 @@
 --- 
 layout: page 
-title: Reading List 
+title: 2017 Reading List 
 permalink: /reading-list
-tags: learning, reading, books 
+tags: reading
 ---
 
 <h3>Software/Code</h3>

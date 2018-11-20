@@ -30,7 +30,7 @@ My problem: Going from reading less than an hour a week to reading everyday is a
 
 **My Goal:** Read 750 minutes per month, or 25 minutes a day for 2 months.
 
-**My reading list** [lives here](/reading-list). The list is aspirational because I will only be able to read a small percentage of those books in two months. I already own hard copies of the first book in each category.
+**My reading list** [lives here](https://kimschlesinger.com/reading-list.html). The list is aspirational because I will only be able to read a small percentage of those books in two months. I already own hard copies of the first book in each category.
 
 **Here's my Tracker:**
 

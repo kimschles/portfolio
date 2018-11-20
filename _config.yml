@@ -3,7 +3,7 @@ title:       Kim Schlesinger
 email:       schlesinger.kim@gmail.com  
 author:      Kim Schlesinger
 description: "Blog and Portfolio Site for Kim Schlesinger"
-baseUrl: ""
+baseUrl: "https://kimschlesinger.com/"
 url: "https://kimschlesinger.com"
 date_format: "%b %-d, %Y"
 header_pages:
@@ -17,8 +17,6 @@ google_verification:
 # - using both will skew your data (leave blank to not use at all)
 google_analytics:  
 google_tag_manager: UA-109764220-2
-# Bing services
-bing_verification:
 
 # Optional features
 animated:             true
