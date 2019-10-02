@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      2 Ways to Search Your Command Line History 
-date:       2019-01-13
+date:       2019-10-02
 summary:    Two techniques to find and run a command you've used in the past
-categories: command line magic
+categories: 
 ---
 
 Sometimes you have to execute a complex command that you've used in the past. Instead of using the up-arrow key to look at your previous commands one at a time, here are two ways you can run a command without typing it again. 
