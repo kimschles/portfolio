@@ -2,7 +2,7 @@
 title:       Kim Schlesinger
 author:      Kim Schlesinger
 description: "Blog and Portfolio Site for Kim Schlesinger"
-baseUrl: "https://kimschlesinger.com/"
+baseUrl: "/"
 url: "https://kimschlesinger.com"
 date_format: "%b %-d, %Y"
 header_pages:

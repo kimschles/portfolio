@@ -6,7 +6,7 @@ summary:    Two techniques to find and run a command you've used in the past
 categories: 
 ---
 
-Sometimes you have to execute a complex command that you've used in the past. Instead of using the up-arrow key to look at your previous commands one at a time, here are two ways you can run a command without typing it again. 
+Sometimes you have to execute a complex command that you've used in the past. Instead of using the up-arrow key to scroll through your previous commands one at a time, here are two ways you can run a command without typing it again. 
 
 ## 1. The `history` command
 * Type `history` and hit `enter` 
@@ -16,13 +16,8 @@ Sometimes you have to execute a complex command that you've used in the past. In
     * `!!` runs the last command 
     * `sudo !!` reruns the last command command as sudo 
 
-_insert gif demo here_
-
 ## 2. Reverse Search
 * Use `control + r` and the type one or two words from the command you’re looking for 
 * Keep hitting `control + r` to go back through the history and find the exact command you're looking for
 * Once you've found what you're looking for, hit `tab` to autocomplete the entire command
 * Hit `enter` to run the command
-
-
-_insert gif demo here_
