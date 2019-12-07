@@ -14,7 +14,7 @@ google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
 google_analytics:  
-google_tag_manager: UA-109764220-2
+google_tag_manager: UA-109764220-1
 
 # Optional features
 animated:             true
@@ -108,6 +108,7 @@ text:
 
 # Build settings
 markdown:     kramdown
+future: true
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
