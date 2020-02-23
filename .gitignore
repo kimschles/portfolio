@@ -5,4 +5,5 @@ _site
 Gemfile
 .firebase*
 _config.yml
-
+.jekyll-cache 
+.vscode
